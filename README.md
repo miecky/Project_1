@@ -15,9 +15,11 @@ website. Through the project, three new combined datasets were generated.
 Provided
 - [2017 SAT Scores](./data/sat_2017.csv)
 - [2017 ACT Scores](./data/act_2017.csv)
+
 Obtained
 - [2018 SAT Scores](./data/sat_2018.csv)
 - [2018 ACT Scores](./data/ACT_2018.csv)
+
 Generated
 - [Combined 2017 Scores](./data/combined_2017.csv)
 - [Combined 2018 Scores](./data/combined_2018.csv)
